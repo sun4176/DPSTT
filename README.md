@@ -6,7 +6,7 @@ https://github.com/seoungwugoh/STM
 https://github.com/huggingface/transformers
 
 
-If you need to access the relevant datasets, please email the corresponding author or use the following link：
+If you need to access the relevant datasets, please email us (jli277@connect.hkust-gz.edu.cn) or use the following link：
 https://pan.baidu.com/s/1vBKutwg1z4CdlR9YHqI_Qw?pwd=665z 
 code:665z
 
