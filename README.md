@@ -6,12 +6,10 @@ https://github.com/seoungwugoh/STM
 https://github.com/huggingface/transformers
 
 
-If you need to access the relevant datasets, please email us (jli277@connect.hkust-gz.edu.cn) or use the following link：
-https://pan.baidu.com/s/1vBKutwg1z4CdlR9YHqI_Qw?pwd=665z 
-code:665z
-Due to the instability of the online repository, please help us complete the Usage form (PDF file) and return it via academic email. We will send the data to the email address you specified.
+If you need to access the relevant datasets, please email us (jli277@connect.hkust-gz.edu.cn) or use the following online link：
+(https://pan.baidu.com/s/1vBKutwg1z4CdlR9YHqI_Qw?pwd=665z  code:665z).
 
-If you use this dataset, please cite this paper:
+Due to the instability of the online repository, please help us complete the Usage form (PDF file) and return it via academic email. We will send the data to the email address you specified.
 
 @inproceedings{li2022rethinking,
   title={Rethinking breast lesion segmentation in ultrasound: A new video dataset and a baseline network},
