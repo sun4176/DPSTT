@@ -9,7 +9,9 @@ https://github.com/huggingface/transformers
 If you need to access the relevant datasets, please email us (jli277@connect.hkust-gz.edu.cn) or use the following online link：
 (https://pan.baidu.com/s/1vBKutwg1z4CdlR9YHqI_Qw?pwd=665z  code:665z).
 
-Due to the instability of the online repository, please help us complete the Usage form (PDF file) and return it via academic email. We will send the data to the email address you specified.
+The online repository is usually unstable. Please help us complete the Usage form (PDF file) and return it via academic email. We will send the data to the email address you specified.
+Due to other daily matters, all emails with attached forms will be processed within ten days. Thank you again for your patience! 
+Please use your academic email to avoid the system automatically hiding your emails.
 
 @inproceedings{li2022rethinking,
   title={Rethinking breast lesion segmentation in ultrasound: A new video dataset and a baseline network},
